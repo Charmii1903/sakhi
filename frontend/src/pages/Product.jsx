@@ -3,6 +3,7 @@ import { useParams, useSearchParams } from 'react-router-dom'
 import { ShopContext } from '../context/ShopContext';
 import { assets } from '../assets/frontend_assets/assets';
 import RelatedProducts from '../components/RelatedProducts';
+import StarRating from "../components/StarRating";
 
 const Product = () => {
 
@@ -11,6 +12,7 @@ const Product = () => {
   const [productData,setProductData] = useState(false);
   const [image,setImage] = useState('');
   const [size,setSize] = useState('');
+  const [rating, setRating] = useState(null);
 
 
   const fetchProductData = async () =>{
@@ -27,6 +29,12 @@ const Product = () => {
   useEffect(()=>{
     fetchProductData();
   },[productId, products])
+
+  const handleRatingSubmit = (newRating) => {
+    setRating(newRating);
+    console.log(`User submitted a rating of: ${newRating}`); // Replace with API call to save rating
+  };
+
 
   return productData  && productData._id  ?  (
   <div className='border-t-2 pt-10 transition-opacity ease-in duration-500 opacity-100'>
@@ -49,14 +57,10 @@ const Product = () => {
       {/* product info */}
       <div className='flex-1'>
         <h1 className='font-medium text-2xl mt-2'>{productData.name}</h1>
-        <div className='flex items-center gap-1 mt-2'>
-          <img src={assets.star_icon} alt="" className="w-3" />
-          <img src={assets.star_icon} alt="" className="w-3" />
-          <img src={assets.star_icon} alt="" className="w-3" />
-          <img src={assets.star_icon} alt="" className="w-3" />
-          <img src={assets.star_dull_icon} alt="" className="w-3" />
-          <p className='pl-2'>(122)</p>
-        </div>
+        <div className="mt-4">
+            <StarRating onRatingSubmit={handleRatingSubmit} />
+            {rating && <p className="mt-2 text-gray-500">Your rating: {rating}</p>}
+          </div>
         <p className='mt-5 text-3xl font-medium'>{currency}{productData.price}</p>
         <p className='mt-5 text-gray-500 md:w-4/5'>{productData.description}</p>
         <div className='flex flex-col gap-4 my-8'>
