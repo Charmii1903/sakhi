@@ -6,12 +6,13 @@ import ProductItem from '../components/ProductItem';
 
 const Collection = () => {
 
-  const { products , search, showSearch } = useContext(ShopContext);
+  const { products , search, showSearch, currency } = useContext(ShopContext);
   const [showFilter, setShowFilter] = useState(false);
   const [filterProducts, setFilterProducts] = useState([]);
   const [category,setCategory] = useState([]);
   const [subcategory,setSubCategory] = useState([]);
   const [sortType,setSortType] = useState('relevent');
+  const [priceRange, setPriceRange] = useState([0, 1000]);
 
   const toggleCategory = (e) =>{
     if (category.includes(e.target.value)){
@@ -45,6 +46,10 @@ const Collection = () => {
     if(subcategory.length > 0){
       productsCopy = productsCopy.filter(item => subcategory.includes(item.subcategory));
     }
+
+    // Filter products by price range
+    productsCopy = productsCopy.filter(item => item.price >= priceRange[0] && item.price <= priceRange[1]);
+
     setFilterProducts(productsCopy);
   }
 
@@ -65,13 +70,16 @@ const Collection = () => {
       break;
     }
   }
-  // useEffect(()=>{
-  //   setFilterProducts(products);
-  // },[])
 
+  const handlePriceRangeChange = (event) => {
+    const { value } = event.target;
+    const [min, max] = value.split('-').map(Number);
+    setPriceRange([min, max]);
+  };
+  
   useEffect(()=>{
     applyFilter();
-  },[category,subcategory,search,showSearch,products])
+  },[category,subcategory,search,showSearch,products,priceRange])
 
   useEffect(()=>{
     sortProduct();
@@ -80,9 +88,10 @@ const Collection = () => {
   return (
     <div className='flex flex-col sm:flex-row gap-1 sm:gap-10 pt-10 border-t'>
 
+
       {/* Filter options  */}
-      <div className='min-w-60'>
-        <p onClick={()=>setShowFilter(!showFilter)} className='my-2 text-xl flex items-center cursor-pointer gap-2'>Filters
+      <div className='min-w-60 sm:sticky top-0 overflow-y-auto '>
+        <p onClick={()=>setShowFilter(!showFilter)} className='my-2 text-xl flex items-center cursor-pointer gap-2'>
           <img className={`h-3 sm:hidden ${showFilter? 'rotate-90' : ''}`} src={assets.dropdown_icon} alt=''/>
         </p>
 
@@ -109,7 +118,6 @@ const Collection = () => {
         </div>
 
         {/* subcategory filter */}
-
         <div className={`border border-gray-300 pl-5 py-3 my-5 ${showFilter ? '' : 'hidden'} sm:block`}>
           <p className='mb-3 text-sm font-medium'>TYPE</p>
           <div className='flex flex-col gap-2 tetx-sm font-light text-gray-700'>
@@ -133,6 +141,35 @@ const Collection = () => {
             </p>
           </div>
         </div>
+
+        {/* Price Range Filter */}
+        <div className={`border border-gray-300 pl-5 py-3 my-5 ${showFilter ? '' : 'hidden'} sm:block`}>
+          <p className='mb-3 text-sm font-medium'>PRICE RANGE</p>
+          <div className='flex flex-col gap-2 text-sm font-light text-gray-700'>
+            <p className='flex gap-2'>
+              <input className='w-3' type='radio' name='price' value='0-500' onChange={handlePriceRangeChange}/>Under 500
+            </p>
+            <p className='flex gap-2'>
+              <input className='w-3' type='radio' name='price' value='500-1000' onChange={handlePriceRangeChange}/>500-1000
+            </p>
+            <p className='flex gap-2'>
+              <input className='w-3' type='radio' name='price' value='1000-5000' onChange={handlePriceRangeChange}/>1000 - 5000
+            </p>
+            <p className='flex gap-2'>
+              <input className='w-3' type='radio' name='price' value='5000-10000' onChange={handlePriceRangeChange}/>5000 - 10000
+            </p>
+            <p className='flex gap-2'>
+              <input className='w-3' type='radio' name='price' value='10000-20000' onChange={handlePriceRangeChange}/>10000 - 20000
+            </p>
+            <p className='flex gap-2'>
+              <input className='w-3' type='radio' name='price' value='20000-50000' onChange={handlePriceRangeChange}/>20000 - 50000
+            </p>
+            <p className='flex gap-2'>
+              <input className='w-3' type='radio' name='price' value='50000-100000' onChange={handlePriceRangeChange}/>50000 and above
+            </p>
+          </div>
+        </div>
+
       </div>
 
 
@@ -147,13 +184,13 @@ const Collection = () => {
             <option value="relevent">Sort by : relevent</option>
           </select>
         </div>
+        
+        
 
         {/* map products */}
         <div className='grid grid-cols-2 md:grid-cols-3 lg-grid-cols-4 gap-4 gap-y-6'>
           {
-            filterProducts.map((item,index)=>(
-              <ProductItem key={index} name={item.name} id={item._id} price={item.price} image={item.image}/>
-            ))
+            filterProducts.map((item,index)=>(<ProductItem key={index} name={item.name} id={item._id} price={item.price} image={item.image}/>))
           }
         </div>
       </div>
@@ -161,4 +198,4 @@ const Collection = () => {
   )
 }
 
-export default Collection
+export default Collection;

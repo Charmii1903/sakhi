@@ -22,14 +22,15 @@ productRouter.post(
 productRouter.post('/remove', adminAuth, removeProduct);
 
 // Route to get a single product
-productRouter.post('/single', singleProduct);
+productRouter.post('/single/:id', singleProduct);
 
 // Route to list all products
 productRouter.get('/list', listProducts);
 
 // Add a root route to handle `/api/product`
-productRouter.get('/', listProducts);
+productRouter.get('/:id', listProducts);
 
 productRouter.post('/edit', adminAuth, editProduct);
+productRouter.post('/rating', addRating);
 
 export default productRouter;

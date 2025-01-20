@@ -106,4 +106,44 @@ const editProduct = async (req, res) => {
   }
 };
 
+export const addRating = async (req, res) => {
+  try {
+    const { productId, rating } = req.body;
+
+    if (!productId || !rating) {
+      return res.status(400).json({ success: false, message: "Product ID and rating are required." });
+    }
+
+    const product = await productModel.findById(productId);
+    if (!product) {
+      return res.status(404).json({ success: false, message: "Product not found." });
+    }
+
+    // Validate and normalize rating
+    const numericRating = Number(rating);
+    if (isNaN(numericRating) || numericRating < 1 || numericRating > 5) {
+      return res.status(400).json({ success: false, message: "Rating must be a number between 1 and 5." });
+    }
+
+    // Update ratings
+    product.ratings.totalRating += numericRating;
+    product.ratings.ratingCount += 1;
+
+    await product.save();
+
+    res.status(200).json({
+      success: true,
+      message: "Rating added successfully.",
+      ratings: {
+        totalRating: product.ratings.totalRating,
+        ratingCount: product.ratings.ratingCount,
+        averageRating: (product.ratings.totalRating / product.ratings.ratingCount).toFixed(2),
+      },
+    });
+  } catch (error) {
+    console.error("Error adding rating:", error);
+    res.status(500).json({ success: false, message: "Server error." });
+  }
+};
+
 export { listProducts, addProduct, removeProduct, singleProduct, editProduct };
