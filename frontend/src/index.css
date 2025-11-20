@@ -1,0 +1,107 @@
+@import "tailwindcss";
+
+
+a.active hr{
+  display: block;
+}
+*{
+  font-family: Outfit;
+}
+
+.prata-regular {
+  font-family: "Prata", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+::-webkit-scrollbar{
+  display: none;
+}
+@media (max-width:640px){
+  a.active{
+      background-color: black;
+      color: white;
+  }
+}
+@layer utilities {
+/* Animation for the rings */
+@keyframes ring1 {
+  0% {
+    stroke-dashoffset: -376.237129776;
+    transform: rotate(-0.25turn);
+  }
+  23% {
+    stroke-dashoffset: -94.247778;
+    transform: rotate(1turn);
+  }
+  46%, 50% {
+    stroke-dashoffset: -376.237129776;
+    transform: rotate(2.25turn);
+  }
+  73% {
+    stroke-dashoffset: -94.247778;
+    transform: rotate(3.5turn);
+  }
+  96%, 100% {
+    stroke-dashoffset: -376.237129776;
+    transform: rotate(4.75turn);
+  }
+}
+
+@keyframes ring2 {
+  0% {
+    stroke-dashoffset: -329.207488554;
+    transform: rotate(-0.25turn);
+  }
+  23% {
+    stroke-dashoffset: -82.46680575;
+    transform: rotate(1turn);
+  }
+  46%, 50% {
+    stroke-dashoffset: -329.207488554;
+    transform: rotate(2.25turn);
+  }
+  73% {
+    stroke-dashoffset: -82.46680575;
+    transform: rotate(3.5turn);
+  }
+  96%, 100% {
+    stroke-dashoffset: -329.207488554;
+    transform: rotate(4.75turn);
+  }
+}
+
+@keyframes ring3 {
+  0% {
+    stroke-dashoffset: -288.4484661616;
+    transform: rotate(-0.25turn);
+  }
+  23% {
+    stroke-dashoffset: -72.2566298;
+    transform: rotate(1turn);
+  }
+  46%, 50% {
+    stroke-dashoffset: -288.4484661616;
+    transform: rotate(2.25turn);
+  }
+  73% {
+    stroke-dashoffset: -72.2566298;
+    transform: rotate(3.5turn);
+  }
+  96%, 100% {
+    stroke-dashoffset: -288.4484661616;
+    transform: rotate(4.75turn);
+  }
+}
+
+/* Apply animation classes */
+.animate-ring1 {
+  animation: ring1 4s ease-in-out infinite;
+}
+.animate-ring2 {
+  animation: ring2 4s ease-in-out infinite;
+}
+.animate-ring3 {
+  animation: ring3 4s ease-in-out infinite;
+}
+}

@@ -1,0 +1,2115 @@
+{
+    "success": true,
+    "products": [
+      {
+        "ratings": {
+          "ratingCount": 2,
+          "totalRating": 8
+        },
+        "_id": "677965a4d915dbf346ca66da",
+        "name": "Fall top",
+        "description": "Fall tops",
+        "price": 499,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736009123/m7eskpjibtximxgieuxp.jpg",
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736009123/xlw1xdq7m9iymhexz4ff.jpg",
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736009123/mzdrk0dgdiavndxewmnh.jpg"
+        ],
+        "category": "Fall",
+        "subcategory": "Topwear",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "bestseller": true,
+        "date": 1736009124430,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "ratingCount": 1,
+          "totalRating": 5
+        },
+        "_id": "677965f3d915dbf346ca66dd",
+        "name": "Wide leg pant",
+        "description": "Wide leg pants",
+        "price": 899,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736009202/obbgdel7btlhkl2qqjjt.jpg",
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736009202/mlbpg6j4tcg8czkh7fix.jpg",
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736009202/zui9ryd5hsdzuzmtbrd6.jpg"
+        ],
+        "category": "Summer",
+        "subcategory": "Bottomwear",
+        "sizes": [
+          "S",
+          "M"
+        ],
+        "bestseller": false,
+        "date": 1736009203085,
+        "__v": 1,
+        "reviews": []
+      },
+      {
+        "ratings": {
+          "ratingCount": 2,
+          "totalRating": 8
+        },
+        "_id": "6779853e335dfb061a67981d",
+        "name": "short sleeved textured top",
+        "description": "short sleeved textured top",
+        "price": 597,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736017214/r5an7aarhui97rug9pbc.jpg",
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736017213/nkukygdui322ierub9x3.jpg"
+        ],
+        "category": "Summer",
+        "subcategory": "Topwear",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ],
+        "bestseller": true,
+        "date": 1736017214960,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "ratingCount": 1,
+          "totalRating": 5
+        },
+        "_id": "677ce012e66ccee748c2edc9",
+        "name": "Half sleeved printed top",
+        "description": "Material compositionPolyester\r\nFit typeSlim Fit\r\nSleeve typeHalf Sleeve\r\nCollar styleCollarless\r\nLengthStandard Length\r\nNeck styleSweetheart Neck\r\nCountry of OriginIndia",
+        "price": 699,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736237074/avux3mahjmgmgt7dfdg3.jpg"
+        ],
+        "category": "Spring",
+        "subcategory": "Topwear",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "bestseller": true,
+        "date": 1736237074741,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "ratingCount": 1,
+          "totalRating": 5
+        },
+        "_id": "677e179d51fba1f03a30177d",
+        "name": "Trousers Pants ",
+        "description": "Trousers Pants ",
+        "price": 699,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736316828/nwwpzft091mcset0l7wz.jpg"
+        ],
+        "category": "Fall",
+        "subcategory": "Bottomwear",
+        "sizes": [
+          "M",
+          "L",
+          "XL"
+        ],
+        "bestseller": false,
+        "date": 1736316829326,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "ratingCount": 1,
+          "totalRating": 4
+        },
+        "_id": "677e17e051fba1f03a30177f",
+        "name": "Cotton Blend Co Ord Set ",
+        "description": "Cotton Blend Co Ord Set ",
+        "price": 1299,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736316895/yvflxkbfyujeqx6vemu7.jpg"
+        ],
+        "category": "Summer",
+        "subcategory": "Bottomwear",
+        "sizes": [
+          "M",
+          "L",
+          "XL",
+          "S"
+        ],
+        "bestseller": false,
+        "date": 1736316896294,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "ratingCount": 8,
+          "totalRating": 29
+        },
+        "_id": "677e183e51fba1f03a301781",
+        "name": "Multi-Pocket Cargo Pant ",
+        "description": "Multi-Pocket Cargo Pant ",
+        "price": 799,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736316989/ehjb1cjokpyhcwzsftlt.jpg",
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736316989/jxng22wkcniv20ikrpjg.jpg",
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736316989/o7tthtuewfucutaltlep.jpg",
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736316989/hnmx8msix3vtllbgpx4j.jpg"
+        ],
+        "category": "Spring",
+        "subcategory": "Bottomwear",
+        "sizes": [
+          "M",
+          "L",
+          "XL",
+          "S"
+        ],
+        "bestseller": false,
+        "date": 1736316990497,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "ratingCount": 2,
+          "totalRating": 9
+        },
+        "_id": "677e188551fba1f03a301783",
+        "name": "Sweatshirt",
+        "description": "Sweatshirt",
+        "price": 599,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736317061/ymxm7numb5nv2wenkft9.jpg",
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736317061/qkbkufy77os0plyk4tn6.jpg"
+        ],
+        "category": "Spring",
+        "subcategory": "Topwear",
+        "sizes": [
+          "M",
+          "L",
+          "S"
+        ],
+        "bestseller": false,
+        "date": 1736317061668,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "ratingCount": 1,
+          "totalRating": 5
+        },
+        "_id": "677e18c651fba1f03a301785",
+        "name": " Oversized Hoodie",
+        "description": " Oversized Hoodie",
+        "price": 399,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736317126/bu0uwpmonebz6vqdpbad.jpg"
+        ],
+        "category": "Winter",
+        "subcategory": "Topwear",
+        "sizes": [
+          "M",
+          "L",
+          "S",
+          "XL"
+        ],
+        "bestseller": false,
+        "date": 1736317126897,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e192651fba1f03a301787",
+        "name": "Straight Jeans",
+        "description": "Straight Jeans",
+        "price": 1499,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736317221/c1sifuhdhj3jcntzvmpe.jpg",
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736317221/xmrh9namrioadw4pf5na.jpg",
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736317221/ixvbtdqvr6ulcypb6tmq.jpg"
+        ],
+        "category": "Spring",
+        "subcategory": "Bottomwear",
+        "sizes": [
+          "M",
+          "L",
+          "S",
+          "XL"
+        ],
+        "bestseller": false,
+        "date": 1736317222130,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "ratingCount": 1,
+          "totalRating": 5
+        },
+        "_id": "677e1a1651fba1f03a30178c",
+        "name": " Fix Solid Color Satin Moss Saree",
+        "description": " Fix Solid Color Satin Moss Saree",
+        "price": 899,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736317462/mr7khzs6gqr9qsrlw1mu.jpg"
+        ],
+        "category": "Ethnic",
+        "subcategory": "Saree",
+        "sizes": [
+          "Free Size"
+        ],
+        "bestseller": false,
+        "date": 1736317462661,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "ratingCount": 1,
+          "totalRating": 5
+        },
+        "_id": "677e1a5251fba1f03a30178e",
+        "name": "Tissue Silk Ethnic Saree ",
+        "description": "Tissue Silk Ethnic Saree With Unstiched Blouse Piece For Festival And Function.",
+        "price": 1299,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736317521/ez9bvvntatetx2hf3sdy.jpg"
+        ],
+        "category": "Ethnic",
+        "subcategory": "Saree",
+        "sizes": [
+          "Free Size"
+        ],
+        "bestseller": false,
+        "date": 1736317522161,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e1a7f51fba1f03a301790",
+        "name": "Satin Digital Floral printed Fashion Saree",
+        "description": "Japan Satin Digital Floral printed Fashion Saree",
+        "price": 1699,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736317566/cmu7bh3x79xoz3rmhwzm.jpg"
+        ],
+        "category": "Ethnic",
+        "subcategory": "Saree",
+        "sizes": [
+          "Free Size"
+        ],
+        "bestseller": false,
+        "date": 1736317567115,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e1aa651fba1f03a301792",
+        "name": "Women Cotton Saree",
+        "description": "Women Cotton Saree",
+        "price": 999,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736317605/wmsfz3479nabhm3dmwet.jpg"
+        ],
+        "category": "Ethnic",
+        "subcategory": "Saree",
+        "sizes": [
+          "Free Size"
+        ],
+        "bestseller": false,
+        "date": 1736317606470,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e1ad551fba1f03a301794",
+        "name": "Lucknowi Chikankari Linen cotton Woven Sarees ",
+        "description": "Lucknowi Chikankari Linen cotton Woven Sarees ",
+        "price": 1899,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736317653/zkvbjd6czjgp06kzruo6.jpg"
+        ],
+        "category": "Ethnic",
+        "subcategory": "Saree",
+        "sizes": [
+          "Free Size"
+        ],
+        "bestseller": false,
+        "date": 1736317653947,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e1afa51fba1f03a301796",
+        "name": " Banarasi Silk Kanjivaram Jacquard Saree",
+        "description": " Banarasi Silk Kanjivaram Jacquard Saree",
+        "price": 2999,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736317690/oolhogdzffnez8waddvb.jpg"
+        ],
+        "category": "Ethnic",
+        "subcategory": "Saree",
+        "sizes": [
+          "Free Size"
+        ],
+        "bestseller": false,
+        "date": 1736317690831,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e2da751fba1f03a3017a0",
+        "name": "Embroidered Kurta Set with Organza Dupatta ",
+        "description": "Embroidered Kurta Set with Organza Dupatta ",
+        "price": 1100,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736322473/ife7pcc5axc8xgu52v4v.jpg",
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736322473/ow78b8njjkqe1jmab3ko.jpg"
+        ],
+        "category": "Ethnic",
+        "subcategory": "KurtaSet",
+        "sizes": [
+          "XL",
+          "L",
+          "M"
+        ],
+        "bestseller": false,
+        "date": 1736322471913,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e2de851fba1f03a3017a5",
+        "name": "Embroidered Kurta Set with Organza Dupatta",
+        "description": "Embroidered Kurta Set with Organza Dupatta",
+        "price": 899,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736322538/whio8k5gevuf9cm3nxjq.jpg"
+        ],
+        "category": "Ethnic",
+        "subcategory": "KurtaSet",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "bestseller": false,
+        "date": 1736322536202,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e2e5551fba1f03a3017ac",
+        "name": "Chanderi Silk Embroidered Kurta Palazzo and Dupatta Set",
+        "description": "Chanderi Silk Embroidered Kurta Palazzo and Dupatta Set",
+        "price": 1999,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736322647/stn7jtye4tzbqsq63jr9.jpg",
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736322647/ajrjlcxvrj9elmep5z9e.jpg"
+        ],
+        "category": "Ethnic",
+        "subcategory": "KurtaSet",
+        "sizes": [],
+        "bestseller": false,
+        "date": 1736322645768,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e2e9b51fba1f03a3017ae",
+        "name": "Gold Print Anarkali Ethnic Dress",
+        "description": "Mustard Silk Blend Gold Print Anarkali Ethnic Dress",
+        "price": 3299,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736322716/xza5dschfhxw96k89jvh.jpg",
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736322716/clitxsiiy8dpobixohzx.jpg",
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736322717/wgfkmlc54338gltwf4wy.jpg"
+        ],
+        "category": "Ethnic",
+        "subcategory": "KurtaSet",
+        "sizes": [
+          "M",
+          "L",
+          "XL",
+          "S"
+        ],
+        "bestseller": false,
+        "date": 1736322715334,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e2edc51fba1f03a3017b0",
+        "name": "Traditional Ethnic Long Western Dress ",
+        "description": "Chinon Chiffon Traditional Ethnic Long Western Dress with Embroidery Work Long Kurta",
+        "price": 1899,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736322781/jqcofrlczwsd2qy3o0pu.jpg",
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736322781/ze3cxjldph5sacekscvm.jpg"
+        ],
+        "category": "Ethnic",
+        "subcategory": "KurtaSet",
+        "sizes": [
+          "M",
+          "L",
+          "XL",
+          "S"
+        ],
+        "bestseller": false,
+        "date": 1736322780140,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e2f2a51fba1f03a3017b2",
+        "name": "omen's Cotton Blend Kurta Set with Dupatta ",
+        "description": "omen's Cotton Blend Kurta Set with Dupatta ",
+        "price": 699,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736322860/aorwxsaec3ivhpxaldaf.jpg",
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736322860/hqb1vfshukm45tsckldr.jpg",
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736322860/d01z7cofqwkefzlh9asq.jpg"
+        ],
+        "category": "Ethnic",
+        "subcategory": "KurtaSet",
+        "sizes": [
+          "M",
+          "L",
+          "XL",
+          "S"
+        ],
+        "bestseller": false,
+        "date": 1736322858696,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e2f6451fba1f03a3017b4",
+        "name": "Rayon Printed Angrakha Kurta",
+        "description": "Women's Rayon Printed Angrakha Kurta",
+        "price": 999,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736322918/q4oqio6jz5pzauyrv65n.jpg",
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736322918/dc6gsdtxmcrxo0wkcbfr.jpg"
+        ],
+        "category": "Ethnic",
+        "subcategory": "KurtaSet",
+        "sizes": [
+          "M",
+          "L",
+          "XL",
+          "S"
+        ],
+        "bestseller": false,
+        "date": 1736322916803,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e2fb151fba1f03a3017b8",
+        "name": "Silk Blend Embroidered Straight Kurta Pant Set ",
+        "description": "Silk Blend Embroidered Straight Kurta Pant Set with Organza Dupatta",
+        "price": 1299,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736322995/aebrh1o8yurh8bmmsomx.jpg",
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736322995/ggvga5tsmxcy87xl7r7s.jpg"
+        ],
+        "category": "Ethnic",
+        "subcategory": "KurtaSet",
+        "sizes": [
+          "M",
+          "L",
+          "XL",
+          "S"
+        ],
+        "bestseller": false,
+        "date": 1736322993536,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e2ff851fba1f03a3017ba",
+        "name": "Embroidered Kurta Set with Organza Dupatta ",
+        "description": "Solid Regular Embroidered Kurta Set with Organza Dupatta ",
+        "price": 1299,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736323066/ryc45kz987yjgjqrhyfr.jpg",
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736323066/k13hzorau5epaukjq2lz.jpg",
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736323066/txd2ruoh61g6ghl1uqhp.jpg"
+        ],
+        "category": "Ethnic",
+        "subcategory": "KurtaSet",
+        "sizes": [
+          "M",
+          "L",
+          "XL",
+          "S"
+        ],
+        "bestseller": false,
+        "date": 1736323064897,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e306851fba1f03a3017be",
+        "name": "Women's Regular Pants",
+        "description": "Women's Regular Pants",
+        "price": 399,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736323177/mufudbuc6dmys0z4oy4a.jpg",
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736323177/ojrragqzphl4qvrxjlf6.jpg"
+        ],
+        "category": "Summer",
+        "subcategory": "Activewear",
+        "sizes": [
+          "M",
+          "L",
+          "XL",
+          "S"
+        ],
+        "bestseller": false,
+        "date": 1736323176033,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e309751fba1f03a3017c0",
+        "name": "High Waist Stretchable Gym Tights Leggings with Crossover Belt",
+        "description": "High Waist Stretchable Gym Tights Leggings with Crossover Belt",
+        "price": 399,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736323225/zoukyawqwmdhbmovfhl3.jpg"
+        ],
+        "category": "Summer",
+        "subcategory": "Activewear",
+        "sizes": [
+          "M",
+          "L",
+          "XL",
+          "S"
+        ],
+        "bestseller": false,
+        "date": 1736323223321,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e30c751fba1f03a3017c2",
+        "name": "Women's Geometric Regular Fit T-Shirt",
+        "description": "Women's Geometric Regular Fit T-Shirt",
+        "price": 499,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736323273/ihztfgjlsdipj94so9q5.jpg"
+        ],
+        "category": "Spring",
+        "subcategory": "Activewear",
+        "sizes": [
+          "M",
+          "L",
+          "XL",
+          "S"
+        ],
+        "bestseller": false,
+        "date": 1736323271694,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e30f151fba1f03a3017c4",
+        "name": "Gym Pants for Women & Tights for Women Workout with Mesh",
+        "description": "Gym Pants for Women & Tights for Women Workout with Mesh",
+        "price": 599,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736323315/wwkznfrinvcqdhaggjs2.jpg"
+        ],
+        "category": "Spring",
+        "subcategory": "Activewear",
+        "sizes": [
+          "M",
+          "L",
+          "XL",
+          "S"
+        ],
+        "bestseller": false,
+        "date": 1736323313190,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "ratingCount": 1,
+          "totalRating": 4
+        },
+        "_id": "677e313551fba1f03a3017c6",
+        "name": "Plain Color Stylish Up and Down Cotton Tshirt ",
+        "description": "Plain Color Stylish Up and Down Cotton Tshirt ",
+        "price": 499,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736323382/hponsk0xwjgrk66qoqli.jpg"
+        ],
+        "category": "Fall",
+        "subcategory": "Activewear",
+        "sizes": [
+          "M",
+          "L",
+          "XL",
+          "S"
+        ],
+        "bestseller": false,
+        "date": 1736323381154,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e31cb51fba1f03a3017ca",
+        "name": "Active Sweatpants Jogger Fleece Pants",
+        "description": "Winter Warm Running Active Sweatpants Jogger Fleece Pants Grey Color with Pockets Size",
+        "price": 499,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736323532/r5ldrrzs2pxhkpwy7tzs.jpg"
+        ],
+        "category": "Winter",
+        "subcategory": "Activewear",
+        "sizes": [
+          "M",
+          "L",
+          "XL",
+          "S"
+        ],
+        "bestseller": false,
+        "date": 1736323531034,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e321651fba1f03a3017ce",
+        "name": " Long Full-sleeve thermal activewear  Pajama Set",
+        "description": " Long Full-sleeve thermal activewear for Women Lined Base Layer Pajama Set",
+        "price": 799,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736323608/zyonm59vcmqhjpmhbcju.jpg"
+        ],
+        "category": "Winter",
+        "subcategory": "Activewear",
+        "sizes": [
+          "M",
+          "L",
+          "XL",
+          "S"
+        ],
+        "bestseller": false,
+        "date": 1736323606796,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e327951fba1f03a3017d5",
+        "name": "Sports Zipper Running Track Suit ",
+        "description": "Sports Zipper Running Track Suit ",
+        "price": 499,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736323707/wb6gdru7lpfyohpevhri.jpg"
+        ],
+        "category": "Fall",
+        "subcategory": "Activewear",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "bestseller": false,
+        "date": 1736323705530,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "ratingCount": 1,
+          "totalRating": 4
+        },
+        "_id": "677e32d851fba1f03a3017d9",
+        "name": "One Piece Dress for Women",
+        "description": "One Piece Dress for Women",
+        "price": 499,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736323802/z2ppagmxis0ewfrz6viv.jpg",
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736323801/dqih9muzbd6qlnyuaxlt.jpg"
+        ],
+        "category": "Summer",
+        "subcategory": "Dress",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "bestseller": false,
+        "date": 1736323800133,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "ratingCount": 2,
+          "totalRating": 10
+        },
+        "_id": "677e32fb51fba1f03a3017db",
+        "name": "Indigo Print Cotton Long Dress",
+        "description": "Indigo Print Cotton Long Dress",
+        "price": 899,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736323837/wdfoqgdhzwsuwcejfmqn.jpg"
+        ],
+        "category": "Summer",
+        "subcategory": "Dress",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "bestseller": false,
+        "date": 1736323835259,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e332551fba1f03a3017dd",
+        "name": " Flare Below The Knee One Piece Dress ",
+        "description": "Rayon Fit and Flare Below The Knee One Piece Dress",
+        "price": 899,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736323879/hlonsxhf1c4jtspxjgxv.jpg"
+        ],
+        "category": "Summer",
+        "subcategory": "Dress",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "bestseller": false,
+        "date": 1736323877511,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "ratingCount": 2,
+          "totalRating": 7
+        },
+        "_id": "677e336551fba1f03a3017df",
+        "name": "Casual Regular Sleeves Crepe Printed Fit and Flare Dress",
+        "description": "Casual Regular Sleeves Crepe Printed Fit and Flare Dress",
+        "price": 599,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736323943/beazsqswkhpcipebylso.jpg"
+        ],
+        "category": "Summer",
+        "subcategory": "Dress",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "bestseller": false,
+        "date": 1736323941097,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e339251fba1f03a3017e1",
+        "name": "Ombre Pleated Dress",
+        "description": "Ombre Pleated Dress",
+        "price": 899,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736323988/tlswyoy7lzkb4x2ovsvq.jpg"
+        ],
+        "category": "Summer",
+        "subcategory": "Dress",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "bestseller": false,
+        "date": 1736323986874,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "ratingCount": 1,
+          "totalRating": 4
+        },
+        "_id": "677e33c151fba1f03a3017e3",
+        "name": "Crepe Sheath Mini Dress",
+        "description": "Crepe Sheath Mini Dress\r\n",
+        "price": 799,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736324035/pxjgmimyz1ycuwqhkhh5.jpg",
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736324035/jgkorrao4jjs55wqzgtc.jpg"
+        ],
+        "category": "Summer",
+        "subcategory": "Dress",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "bestseller": false,
+        "date": 1736324033618,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e344251fba1f03a3017f0",
+        "name": "Polyester and Fit & Flare Wrap Dress (Midi Length ",
+        "description": "Polyester and Fit & Flare Wrap Dress (Midi Length ",
+        "price": 999,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736324163/c1rgrv2cnptnvb7srxsg.jpg",
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736324163/hykgu9cg7lh7quvjxkno.jpg"
+        ],
+        "category": "Summer",
+        "subcategory": "Dress",
+        "sizes": [],
+        "bestseller": false,
+        "date": 1736324162082,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e354751fba1f03a3018d0",
+        "name": "Fitted Draped Dress ",
+        "description": "Fitted Draped Dress ",
+        "price": 998,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736324425/ojivvm5kfvtrpyishgwi.jpg",
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736324424/ixs5r683g6zummbmdl4m.jpg"
+        ],
+        "category": "Winter",
+        "subcategory": "Dress",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "bestseller": false,
+        "date": 1736324423254,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e356051fba1f03a3018d2",
+        "name": "Regular Fit Casual Ribbed Knit Long Sleeve Bodycon Dress ",
+        "description": "Solid Turtle Neck Regular Fit Casual Ribbed Knit Long Sleeve Bodycon Dress ",
+        "price": 798,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736324450/n2rhwhlvocxgq27nbjmd.jpg"
+        ],
+        "category": "Winter",
+        "subcategory": "Dress",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "bestseller": false,
+        "date": 1736324448291,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e35df51fba1f03a3018d4",
+        "name": "Checked Cotton Lapel Collar Blazer Dress Long Sleeves",
+        "description": "Black and White Checked Cotton Lapel Collar Blazer Dress Long Sleeves",
+        "price": 899,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736324577/xkfde20rgntutpbpsp9n.jpg"
+        ],
+        "category": "Winter",
+        "subcategory": "Dress",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "bestseller": false,
+        "date": 1736324575557,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e360f51fba1f03a3018d6",
+        "name": "Round Neck Shrug with Bodycon Dress for Women",
+        "description": "Round Neck Shrug with Bodycon Dress for Women",
+        "price": 899,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736324625/dnpitiy1l0qu2ntjfjzw.jpg"
+        ],
+        "category": "Winter",
+        "subcategory": "Dress",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "bestseller": false,
+        "date": 1736324623048,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e363851fba1f03a3018d8",
+        "name": "Women's Polyester Blend Cocktail Midi Dress",
+        "description": "Women's Polyester Blend Cocktail Midi Dress",
+        "price": 1199,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736324666/omxxpd2vrl0eskjgvyus.jpg"
+        ],
+        "category": "Winter",
+        "subcategory": "Dress",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "bestseller": false,
+        "date": 1736324664981,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e368151fba1f03a3018da",
+        "name": "Co-Ords Midi Dress",
+        "description": "Co-Ords Midi Dress",
+        "price": 999,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736324739/mxiupaua226mdkeprpgs.jpg"
+        ],
+        "category": "Winter",
+        "subcategory": "Dress",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "bestseller": false,
+        "date": 1736324737098,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e36f351fba1f03a3018dd",
+        "name": "One Piece Dress for Women",
+        "description": "One Piece Dress for Women",
+        "price": 799,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736324853/c0vn4i6z7zjzqugdyxjr.jpg"
+        ],
+        "category": "Winter",
+        "subcategory": "Dress",
+        "sizes": [
+          "S",
+          "L",
+          "M",
+          "XL"
+        ],
+        "bestseller": false,
+        "date": 1736324851595,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e372651fba1f03a3018df",
+        "name": "midi Dress Cord Set Long Dress",
+        "description": "midi Dress Cord Set Long Dress",
+        "price": 989,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736324904/i5jkexnmvp5k5fruyvs5.jpg"
+        ],
+        "category": "Winter",
+        "subcategory": "Dress",
+        "sizes": [
+          "S",
+          "L",
+          "M",
+          "XL"
+        ],
+        "bestseller": false,
+        "date": 1736324902313,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e376b51fba1f03a3018e1",
+        "name": "Formal Tie-up Neck Black Dress",
+        "description": "Formal Tie-up Neck Black Dress",
+        "price": 899,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736324973/gh6feize95rbpnh0wmgy.jpg"
+        ],
+        "category": "Fall",
+        "subcategory": "Dress",
+        "sizes": [
+          "S",
+          "L",
+          "M",
+          "XL"
+        ],
+        "bestseller": false,
+        "date": 1736324971961,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e379751fba1f03a3018e3",
+        "name": "Dress",
+        "description": "Dress",
+        "price": 999,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736325017/kcvbvh6f9jvjmthajsvg.jpg"
+        ],
+        "category": "Fall",
+        "subcategory": "Dress",
+        "sizes": [
+          "S",
+          "L",
+          "M",
+          "XL"
+        ],
+        "bestseller": false,
+        "date": 1736325015619,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e37cd51fba1f03a3018e5",
+        "name": "Navy Blue Round Neck Maxi Western Dress",
+        "description": "Navy Blue Round Neck Maxi Western Dress",
+        "price": 699,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736325071/j6wedao4soohczhqivbx.jpg"
+        ],
+        "category": "Fall",
+        "subcategory": "Dress",
+        "sizes": [
+          "S",
+          "L",
+          "M",
+          "XL"
+        ],
+        "bestseller": false,
+        "date": 1736325069508,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e380751fba1f03a3018e7",
+        "name": "Rayon Midi Regular Loose Dress",
+        "description": "Rayon Midi Regular Loose Dress",
+        "price": 899,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736325129/juklhuipdkx7xr0epcdk.jpg"
+        ],
+        "category": "Fall",
+        "subcategory": "Dress",
+        "sizes": [
+          "S",
+          "L",
+          "M",
+          "XL"
+        ],
+        "bestseller": false,
+        "date": 1736325127521,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e385151fba1f03a3018ea",
+        "name": "Navy Blue Dress for Women Midi, One Piece Dress",
+        "description": "Navy Blue Dress for Women Midi, One Piece Dress",
+        "price": 899,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736325203/knljfw17z4xymlxqn67m.jpg"
+        ],
+        "category": "Fall",
+        "subcategory": "Dress",
+        "sizes": [
+          "S",
+          "L",
+          "M",
+          "XL"
+        ],
+        "bestseller": false,
+        "date": 1736325201217,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e388b51fba1f03a3018ec",
+        "name": "Georgette A-Line Midi Western Dress",
+        "description": "Georgette A-Line Midi Western Dress",
+        "price": 999,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736325261/vhlyz8socdoupshdqfll.jpg"
+        ],
+        "category": "Spring",
+        "subcategory": "Dress",
+        "sizes": [
+          "S",
+          "L",
+          "M",
+          "XL"
+        ],
+        "bestseller": false,
+        "date": 1736325259694,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e38db51fba1f03a3018ee",
+        "name": " Mini/Short A-Line Dress in Crepe Fabric with Sweetheart Neck and No Sleeves",
+        "description": " Mini/Short A-Line Dress in Crepe Fabric with Sweetheart Neck and No Sleeves",
+        "price": 999,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736325341/h9rp6axslf1kcaoel4hc.jpg"
+        ],
+        "category": "Spring",
+        "subcategory": "Dress",
+        "sizes": [
+          "S",
+          "L",
+          "M",
+          "XL"
+        ],
+        "bestseller": false,
+        "date": 1736325339803,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e391551fba1f03a3018f1",
+        "name": "Georgette Floral Fit & Flared Western Dress ",
+        "description": "Georgette Floral Fit & Flared Western Dress ",
+        "price": 799,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736325399/pidi4cuanwsszzkagh6g.jpg"
+        ],
+        "category": "Spring",
+        "subcategory": "Topwear",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XXL",
+          "XL"
+        ],
+        "bestseller": false,
+        "date": 1736325397528,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e394551fba1f03a3018f3",
+        "name": "Polyester Dress Short A-Line",
+        "description": "Polyester Dress Short A-Line",
+        "price": 699,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736325447/hahx0f8tcoy5hwujgxya.jpg"
+        ],
+        "category": "Spring",
+        "subcategory": "Topwear",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XXL",
+          "XL"
+        ],
+        "bestseller": false,
+        "date": 1736325445684,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e397951fba1f03a3018f5",
+        "name": "Multicolored-Base-Blue V-Neck Pleated Puff Sleeve Floral Wrap Midi Polyester Dress",
+        "description": "Multicolored-Base-Blue V-Neck Pleated Puff Sleeve Floral Wrap Midi Polyester Dress",
+        "price": 599,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736325499/qjm9xe6xrar2i4tesmal.jpg"
+        ],
+        "category": "Spring",
+        "subcategory": "Topwear",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XXL",
+          "XL"
+        ],
+        "bestseller": false,
+        "date": 1736325497976,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "ratingCount": 1,
+          "totalRating": 5
+        },
+        "_id": "677e39d451fba1f03a3018f9",
+        "name": "Casual Solid Trousers",
+        "description": "Casual Solid Trousers",
+        "price": 299,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736325590/p9b4ajyc4o4feykb2577.jpg"
+        ],
+        "category": "Summer",
+        "subcategory": "Bottomwear",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XXL",
+          "XL"
+        ],
+        "bestseller": false,
+        "date": 1736325588256,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e3a1651fba1f03a3018fb",
+        "name": "High Rise Viscose Rayon Relaxed Fit Korean Trousers",
+        "description": "High Rise Viscose Rayon Relaxed Fit Korean Trousers",
+        "price": 799,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736325656/qyxydys5ivyqkgncvw93.jpg"
+        ],
+        "category": "Summer",
+        "subcategory": "Bottomwear",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XXL",
+          "XL"
+        ],
+        "bestseller": false,
+        "date": 1736325654502,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e3a5751fba1f03a3018fd",
+        "name": " High-Waisted Pant",
+        "description": " High-Waisted Pant",
+        "price": 799,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736325721/jv43hlp3wjntthwiro95.jpg"
+        ],
+        "category": "Spring",
+        "subcategory": "Bottomwear",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XXL",
+          "XL"
+        ],
+        "bestseller": false,
+        "date": 1736325719955,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e3a8351fba1f03a3018ff",
+        "name": "Blue Denim Clean Look Balloon Fit Stretchable Jeans",
+        "description": "Blue Denim Clean Look Balloon Fit Stretchable Jeans",
+        "price": 898,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736325765/efzvmlkezoxnzvbunyoz.jpg"
+        ],
+        "category": "Spring",
+        "subcategory": "Bottomwear",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XXL",
+          "XL"
+        ],
+        "bestseller": false,
+        "date": 1736325763527,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e3aad51fba1f03a301901",
+        "name": "High Waist Straight Fit Trousers ",
+        "description": "High Waist Straight Fit Trousers ",
+        "price": 799,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736325807/ljvhbbtsplhennmr7l0j.jpg"
+        ],
+        "category": "Spring",
+        "subcategory": "Bottomwear",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XXL",
+          "XL"
+        ],
+        "bestseller": false,
+        "date": 1736325805649,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e3ad151fba1f03a301903",
+        "name": "Loose Fit Women Trousers",
+        "description": "Loose Fit Women Trousers",
+        "price": 899,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736325842/xoxcxvdcywy9hfqyhveg.jpg"
+        ],
+        "category": "Spring",
+        "subcategory": "Bottomwear",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XXL",
+          "XL"
+        ],
+        "bestseller": false,
+        "date": 1736325841170,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e3b0751fba1f03a301905",
+        "name": "High Rise Relaxed Fit Cotton",
+        "description": "High Rise Relaxed Fit Cotton",
+        "price": 899,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736325897/uhuqmnslu5cj3hfosk1e.jpg"
+        ],
+        "category": "Fall",
+        "subcategory": "Bottomwear",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XXL",
+          "XL"
+        ],
+        "bestseller": false,
+        "date": 1736325895773,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e3b2951fba1f03a301907",
+        "name": "Cotton Reyon Regular Fit Palazzo Pants",
+        "description": "Cotton Reyon Regular Fit Palazzo Pants",
+        "price": 899,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736325931/as5ypkelqwwcg01vhfb4.jpg"
+        ],
+        "category": "Fall",
+        "subcategory": "Bottomwear",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XXL",
+          "XL"
+        ],
+        "bestseller": false,
+        "date": 1736325929387,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e3b7451fba1f03a301909",
+        "name": " Baggy Fit Jeans",
+        "description": " Baggy Fit Jeans",
+        "price": 899,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736326006/idrludlcqbhpr75bayuc.jpg"
+        ],
+        "category": "Winter",
+        "subcategory": "Bottomwear",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XXL",
+          "XL"
+        ],
+        "bestseller": false,
+        "date": 1736326004149,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e3b9c51fba1f03a30190d",
+        "name": "Regular Fit Jeans ",
+        "description": "Regular Fit Jeans ",
+        "price": 999,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736326043/vr5tye7ezbplsfvkaspw.jpg"
+        ],
+        "category": "Winter",
+        "subcategory": "Bottomwear",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XXL",
+          "XL"
+        ],
+        "bestseller": false,
+        "date": 1736326044428,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e3bf451fba1f03a301911",
+        "name": "Georgette Solid Flared Western Top",
+        "description": "Georgette Solid Flared Western Top",
+        "price": 599,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736326134/exjcosc1zzeakcplyzrz.jpg"
+        ],
+        "category": "Summer",
+        "subcategory": "Topwear",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XXL",
+          "XL"
+        ],
+        "bestseller": false,
+        "date": 1736326132142,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e3c1f51fba1f03a301913",
+        "name": "Floral Printed Cotton Regular Fit Top",
+        "description": "Floral Printed Cotton Regular Fit Top",
+        "price": 999,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736326176/gum17ptgtmg9sb12at2s.jpg"
+        ],
+        "category": "Summer",
+        "subcategory": "Topwear",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XXL",
+          "XL"
+        ],
+        "bestseller": false,
+        "date": 1736326175111,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e3c5b51fba1f03a301915",
+        "name": "Shirt Top",
+        "description": "Shirt Top",
+        "price": 799,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736326237/ybd0ons0dsnul37omhnd.jpg"
+        ],
+        "category": "Summer",
+        "subcategory": "Topwear",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XXL",
+          "XL"
+        ],
+        "bestseller": false,
+        "date": 1736326235976,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e3c8c51fba1f03a301917",
+        "name": " Boho Knit V-Neck Crochet Crop Top Shirt ",
+        "description": " Boho Knit V-Neck Crochet Hollow Out Puff Sleeve Button Up Crop Top Shirt ",
+        "price": 899,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736326286/cejoarrqvrqzikyadfio.jpg"
+        ],
+        "category": "Summer",
+        "subcategory": "Topwear",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XXL",
+          "XL"
+        ],
+        "bestseller": false,
+        "date": 1736326284886,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e3ce251fba1f03a301919",
+        "name": " Fall Batwing Half Sleeve Shirts Boat Neck Oversized Tunic Top",
+        "description": " Fall Batwing Half Sleeve Shirts Boat Neck Oversized Tunic Tops Casual Waffle Knit Shirt",
+        "price": 699,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736326372/m0sqydvesst5dwegraq9.jpg"
+        ],
+        "category": "Summer",
+        "subcategory": "Topwear",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XXL",
+          "XL"
+        ],
+        "bestseller": false,
+        "date": 1736326370800,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e3d3651fba1f03a30191c",
+        "name": "Regular Fit Top",
+        "description": "Regular Fit Top",
+        "price": 599,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736326456/yearnwtp8jmidgimz365.jpg"
+        ],
+        "category": "Spring",
+        "subcategory": "Topwear",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "bestseller": false,
+        "date": 1736326454371,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e3d4551fba1f03a30191e",
+        "name": "V-Collar Solid Crop Shirt for Women with Half Sleeves",
+        "description": "V-Collar Solid Crop Shirt for Women with Half Sleeves",
+        "price": 499,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736326471/hum4dpfwk3amiygxf1pk.jpg"
+        ],
+        "category": "Fall",
+        "subcategory": "Topwear",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "bestseller": false,
+        "date": 1736326469638,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e3db851fba1f03a301923",
+        "name": "Women Printed Top ",
+        "description": "Women Printed Top ",
+        "price": 899,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736326586/ov2z9552uabv88qcplhm.jpg"
+        ],
+        "category": "Spring",
+        "subcategory": "Topwear",
+        "sizes": [
+          "S",
+          "M",
+          "XL",
+          "L"
+        ],
+        "bestseller": false,
+        "date": 1736326584350,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e3df251fba1f03a301925",
+        "name": "Multicolour Antiviral Protective Finish Cropped T-Shirt",
+        "description": "Multicolour Antiviral Protective Finish Cropped T-Shirt",
+        "price": 899,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736326644/enwocfzq67csurtknni3.jpg"
+        ],
+        "category": "Winter",
+        "subcategory": "Topwear",
+        "sizes": [
+          "S",
+          "M",
+          "XL",
+          "L"
+        ],
+        "bestseller": false,
+        "date": 1736326642450,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e3e2451fba1f03a301927",
+        "name": "Button Down Neck Top Long Sleeves Long Top",
+        "description": "Button Down Neck Top Long Sleeves Long Top",
+        "price": 789,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736326694/nsbhshonwpn272rwaktf.jpg"
+        ],
+        "category": "Winter",
+        "subcategory": "Topwear",
+        "sizes": [
+          "S",
+          "M",
+          "XL",
+          "L"
+        ],
+        "bestseller": false,
+        "date": 1736326692263,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677e3e5a51fba1f03a301929",
+        "name": "Long Shirt ",
+        "description": "Long Shirt ",
+        "price": 583,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736326747/mmhiovrks0irvfgadmuf.jpg"
+        ],
+        "category": "Winter",
+        "subcategory": "Topwear",
+        "sizes": [
+          "S",
+          "M",
+          "XL",
+          "L"
+        ],
+        "bestseller": false,
+        "date": 1736326746006,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677eb3c33860a842b5cc7e00",
+        "name": "chiffon saree",
+        "description": "chiffon saree",
+        "price": 4599,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736356802/ypny2mhosjqjlv1dryq0.jpg"
+        ],
+        "category": "ethnic",
+        "sizes": [
+          "Free Size"
+        ],
+        "bestseller": false,
+        "date": 1736356803356,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677eb8796b480259633d2e18",
+        "name": "Chiffon Saree with Blouse Material",
+        "description": "Chiffon Saree with Blouse Material",
+        "price": 3999,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736358008/yczpcjzik2jh9mizetsz.jpg"
+        ],
+        "category": "Ethnic",
+        "subcategory": "Saree",
+        "sizes": [
+          "Free Size"
+        ],
+        "bestseller": true,
+        "date": 1736358009555,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "677eb8bf6b480259633d2e1c",
+        "name": "Organza Ethnic Motif Woven Design Saree ",
+        "description": "Organza Ethnic Motif Woven Design Saree With Unstitched Blouse Piece",
+        "price": 1898,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1736358079/szxy9zeb91btqofjksm5.jpg"
+        ],
+        "category": "Ethnic",
+        "subcategory": "Saree",
+        "sizes": [
+          "Free Size"
+        ],
+        "bestseller": true,
+        "date": 1736358079705,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "678d1cce9d6c6a7b9bb5b7b1",
+        "name": " Kanjivaram Silk Saree ",
+        "description": "Womens Kanjivaram Silk Saree with Zari Woven Saree With Blouse Piece",
+        "price": 1599,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1737301198/g9jsh3h1jpvydnmcqjfv.jpg",
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1737301194/hbbjhopdeg3xsockiikf.jpg",
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1737301195/xhhmfcn1ltvqzy9k6l2z.jpg"
+        ],
+        "category": "Ethnic",
+        "subcategory": "Saree",
+        "sizes": [
+          "Free Size"
+        ],
+        "bestseller": false,
+        "date": 1737301198035,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "678d1d389d6c6a7b9bb5b7b4",
+        "name": "banarasi silk saree ",
+        "description": "Women's kanjivaram banarasi silk saree for festival Wedding silk with rich pallu Design sarees for women with Unstitched blouse piece",
+        "price": 1799,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1737301304/rqbu6sirxl1qadc4mwut.jpg",
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1737301302/z0r3gnmbqswh4rijmfef.jpg"
+        ],
+        "category": "Ethnic",
+        "subcategory": "Saree",
+        "sizes": [
+          "Free Size"
+        ],
+        "bestseller": false,
+        "date": 1737301304215,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "678d1fb99d6c6a7b9bb5b7ba",
+        "name": " Woven Chiffon Latest Black Rangoli Fabric Saree ",
+        "description": " Woven Chiffon Latest Black Rangoli Fabric Saree with Lace and Blouse Material",
+        "price": 1699,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1737301945/i2oqg0vt825exijwjn5m.jpg",
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1737301944/wcangtamytkhkt4r7dsh.jpg",
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1737301945/ndsxtzzbjxpeolqbvkxx.jpg"
+        ],
+        "category": "Ethnic",
+        "subcategory": "Saree",
+        "sizes": [
+          "Free Size"
+        ],
+        "bestseller": false,
+        "date": 1737301945735,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "678d1ffd9d6c6a7b9bb5b7bd",
+        "name": "Self Woven, Lace Georgette Saree",
+        "description": "Self Woven, Lace Georgette Saree with Unstitched Blouse",
+        "price": 1999,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1737302013/vvnz0o9tbnoqircr5tt6.jpg",
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1737302013/eet0mgxl1bmojvxy7utc.jpg"
+        ],
+        "category": "Ethnic",
+        "subcategory": "Saree",
+        "sizes": [
+          "Free Size"
+        ],
+        "bestseller": false,
+        "date": 1737302013736,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 5,
+          "ratingCount": 1
+        },
+        "_id": "678e054b8302d31d06fdf52f",
+        "name": " Aesthetic Shirts Teen Girls Vintage Graphic Tee",
+        "description": "Tops Long Sleeve Fairy Grunge Aesthetic Shirts Teen Girls Vintage Graphic Tees Fall",
+        "price": 899,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1737360715/c2jnvew1wbkvwbqdwyls.jpg",
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1737360714/h5i771v3mnoesjgsr9xf.jpg"
+        ],
+        "category": "Fall",
+        "subcategory": "Topwear",
+        "sizes": [
+          "L",
+          "M",
+          "XL",
+          "S"
+        ],
+        "bestseller": false,
+        "date": 1737360715406,
+        "__v": 0
+      },
+      {
+        "ratings": {
+          "totalRating": 0,
+          "ratingCount": 0
+        },
+        "_id": "678e57c62c419ef44e238f85",
+        "name": "kurta set",
+        "description": "kurta set",
+        "price": 1899,
+        "image": [
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1737381829/srqlc5x48hiwoex3ljc1.jpg",
+          "https://res.cloudinary.com/djjrhbo0g/image/upload/v1737381830/npjzpkpbrwd5pipi62rd.jpg"
+        ],
+        "category": "Winter",
+        "subcategory": "KurtaSet",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "bestseller": false,
+        "date": 1737381830601,
+        "__v": 0
+      }
+    ]
+  }
